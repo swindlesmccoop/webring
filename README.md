@@ -1,4 +1,4 @@
-# Webring
+# [Webring](https://swindlesmccoop.xyz/webring)
 As the title implies, this is software I wrote to have a webring.
 
 ## How to use/join
