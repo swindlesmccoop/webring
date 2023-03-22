@@ -16,6 +16,7 @@ Optionally, you may also include a "random page" button:
 ```HTML
 <a href="#" id="random-link">Random Page</a>
 ```
+This is all outlined in the example [index.html](./index.html)
 
 ## Why?
 Webrings kind of don't work because there is no centralized list of who all is in it. Well that ends now. Using a bit of JavaScript (don't worry, it's Free), the small script will fetch the list and banners of all of the people in it from my server
